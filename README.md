@@ -1,1 +1,4 @@
 Repositório para gerar um link para uma dashboard em nuvem, parte de um projeto da Faculdade Engenheiro Salvador Arena na matéria de Eletrotécnica e Instalações Elétricas. Esse projeto engloba a contrução de uma maquete com cinco subsistemas para a automatização de uma casa: irrigação inteligente, controle de acesso, abertura de portão automático, controle de temperatura e iluminação por presença. Tal dashboard foi feito em HTML e posteriormente integrado a um ESP 32 por meio de um IP gerado pela rede de internet e suas funcionalidades estão ligadas com o sistema de irrigação inteligente e abertura de portão. 
+
+<img width="1917" height="867" alt="image" src="https://github.com/user-attachments/assets/d7eaa5b7-9f0c-40eb-b053-40216e3ceec6" />
+
