@@ -2,3 +2,4 @@ Repositório para gerar um link para uma dashboard em nuvem, parte de um projeto
 
 <img width="1917" height="867" alt="image" src="https://github.com/user-attachments/assets/d7eaa5b7-9f0c-40eb-b053-40216e3ceec6" />
 
+<img width="466" height="616" alt="image" src="https://github.com/user-attachments/assets/a6192869-9794-4f85-bd52-cbd51357d779" />
